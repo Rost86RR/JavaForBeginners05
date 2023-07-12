@@ -6,14 +6,14 @@ public class IfElse {
 
         //task 1
         int a = 9;
-        if(a>10) {
+        if(a > 10) {
             System.out.println("a is greater than 10");
         } else {
             System.out.println("a is less than 10");
         }
 
         //task 2
-        int b =11;
+        int b = 11;
         if(b > 0 && b < 10 || b > 100 && b < 1000) {
             System.out.println(b*b);
         } else {
